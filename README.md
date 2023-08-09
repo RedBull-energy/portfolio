@@ -1,5 +1,5 @@
 # Привет, меня зовут Булат 👋
-Я начинающий программист
+Я начинающий программист. Живу и учусь в Казани.
 <p align='center'>
    <a href="https://github-readme-stats.vercel.app/api?username=RedBull-energy&show_icons=true&count_private=true">
        <img height=150 src="https://github-readme-stats.vercel.app/api?username=RedBull-energy&show_icons=true&count_private=true"/></a>
