@@ -20,6 +20,7 @@
 
 ### My projects
 * [проект](https://github.com/RedBull-energy/projects) в котором я отвечаю за back-end
+* [приложение](https://github.com/RedBull-energy/app), которое написал в ходе обучения
 
 <p align='center'>
    📫 связь со мной: <a href='mailto:Bulatkhammatov@mail.ru'>Bulatkhammatov@mail.ru</a>
