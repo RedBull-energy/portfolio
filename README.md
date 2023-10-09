@@ -18,6 +18,10 @@
 * Django Framework
 * GitHub
 
+## 🧐 Softskills
+* Активный и общительный
+* Умею работать в команде
+
 ### My projects
 * [Проект](https://github.com/RedBull-energy/projects), в котором я отвечаю за back-end
 * [Приложение](https://github.com/RedBull-energy/app), которое написал в ходе обучения
