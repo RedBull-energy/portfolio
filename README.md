@@ -13,9 +13,12 @@
 * стал призером регионального чемпионата по летающей робототехнике
 
 ## 🛠 Technical Stack
-* Python language
+* Python, JavaScript, C# language
 * postgresql
 * Django Framework
+* Svelte.Js
+* Unity
+* Bitbucket
 * GitHub
 
 ## 🧐 Softskills
