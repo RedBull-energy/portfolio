@@ -17,6 +17,8 @@
 * Python, JavaScript, C# language
 * postgresql
 * Django Framework
+* Blazor Framework
+* Xamarin Framework
 * Svelte.Js
 * Unity
 * Bitbucket
