@@ -15,11 +15,11 @@
 
 ## 🛠 Technical Stack
 * Python, JavaScript, C# language
-* postgresql
+* Postgresql
 * Django Framework
 * Blazor Framework
 * Xamarin Framework
-* Svelte.Js
+* Svelte.Js Framework
 * Unity
 * Bitbucket
 * GitHub
