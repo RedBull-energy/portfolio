@@ -28,8 +28,10 @@
 
 ### My projects
 * [Проект](https://github.com/RedBull-energy/projects), в котором я отвечаю за back-end
+* [Проект] , в котором создавал меню игры и магазин для покупок 
 * [Приложение](https://github.com/RedBull-energy/app), которое написал в ходе обучения
 * [Консольное приложение](https://github.com/RedBull-energy/console_app)
+
 
 <p align='center'>
    📫 связь со мной: <a href='mailto:Bulatkhammatov@mail.ru'>Bulatkhammatov@mail.ru</a>
