@@ -35,6 +35,7 @@
 * [Макеты](https://github.com/RedBull-energy/website-layout) верстки, которые написал в ходе обучения
 * [Приложение](https://github.com/RedBull-energy/CalculatorApp), калькулятор который написал в ходе обучения 
 * [Приложение](https://github.com/RedBull-energy/app), которое написал в ходе обучения
+* [Сайт] (https://github.com/RedBull-energy/FIrst-site), который написал в ходе обучения
 * [Консольное приложение](https://github.com/RedBull-energy/console_app)
 
 
