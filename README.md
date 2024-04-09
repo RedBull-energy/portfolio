@@ -28,7 +28,7 @@
 
 ### My projects
 * [Проект](https://github.com/RedBull-energy/projects), в котором я отвечаю за back-end
-* [Проект] , в котором создавал меню игры и магазин для покупок 
+* [Проект](https://github.com/RedBull-energy/GameShop), в котором создавал меню игры и магазин для покупок 
 * [Приложение](https://github.com/RedBull-energy/app), которое написал в ходе обучения
 * [Консольное приложение](https://github.com/RedBull-energy/console_app)
 
